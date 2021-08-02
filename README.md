@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @adityamehra261
 - 👀 I’m interested in making projects in various tech stacks.
 - 🌱 I’m currently learning everything thrown at me :)
-- 💞️ I’m looking to collaborate on projects which particularly focus on problem solving with a high efficiency
+- 💞️ I’m looking to collaborate on projects which particularly focus on problem solving with a high efficiency.
+- Particularly focussed on MERN stack and working on pretty interesting ideas & projects...
 - 📫 Reach me at my linkedin handle - linkedin.com/in/aditya-mehra-34aa96184 
 
 <!---
